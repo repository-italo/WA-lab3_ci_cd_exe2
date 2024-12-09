@@ -1,1 +1,1 @@
-# webacademy
+# WA - Exercício 2 do Lab 03 de CI/CD
